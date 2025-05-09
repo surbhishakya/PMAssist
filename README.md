@@ -32,4 +32,4 @@ An AI-powered dashboard that provides real-time visibility into project metrics 
 - Automated email notifications for tickets without components
 - Dynamic filtering by date range and components
 - Interactive charts and tables
-- Detailed issue tracking 
+- Detailed issue tracking
